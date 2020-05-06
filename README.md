@@ -6,7 +6,7 @@ This repo contains the complete code for the Route Planning project.
 <img src="map.png" width="600" height="450" />
 
 ## Cloning
-
+For the starter code you can follow below instruction. <br/>
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
 ```
 git clone https://github.com/udacity/CppND-Route-Planning-Project.git --recurse-submodules
